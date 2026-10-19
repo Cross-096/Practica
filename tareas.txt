@@ -1,1 +1,2 @@
 repasar git
+sacar basura

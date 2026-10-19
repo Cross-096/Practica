@@ -1,2 +1,3 @@
 repasar git
 sacar basura
+terminar la practica de git
